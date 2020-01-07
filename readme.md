@@ -1,1 +1,1 @@
-hello , this is the what we can colected for thesis 
+Hello , this is the sentiment analysis theses we can collect for you 
